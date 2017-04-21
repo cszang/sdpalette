@@ -1,0 +1,3 @@
+export(sdpalette_colour)
+export(sdpalette_legend)
+import(ggplot2)

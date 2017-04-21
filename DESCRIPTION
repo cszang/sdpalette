@@ -1,0 +1,14 @@
+Package: sdpalette
+Type: Package
+Title: 2-D Colour Palette for 2 Dimensional Anomalies
+Version: 0.0.1
+Date: 2017-04-21
+Author: Christian Zang
+Maintainer: Christian Zang <christian.zang@wzw.tum.de>
+Depends:
+    ggplot2
+Description: This package defines a 2-D colour palette that can be used to
+             map anomalies (measured in SDs) of two variables simultaneously.
+             Idea shamelessly stolen from Babst et al. 2012 ERL.
+License: GPL-3
+RoxygenNote: 6.0.1
